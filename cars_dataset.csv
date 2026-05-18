@@ -1,0 +1,8 @@
+Car,Type,Price,Fuel,Mileage,Safety,Seats,Maintenance,Resale
+Hyundai Creta,SUV,1400000,Petrol,17,5,5,Medium,High
+Kia Seltos,SUV,1500000,Diesel,20,5,5,Medium,High
+Tata Nexon,SUV,1200000,Petrol,18,5,5,Low,High
+Maruti Brezza,SUV,1100000,Petrol,19,4,5,Low,Medium
+Mahindra XUV700,SUV,1800000,Diesel,16,5,7,Medium,High
+Honda City,Sedan,1300000,Petrol,18,5,5,Medium,High
+Toyota Innova,MUV,2200000,Diesel,14,5,7,High,Very High
